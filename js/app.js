@@ -1,5 +1,5 @@
 // Get an API key from https://openweathermap.org/
-const apiKey = "PUT API KEY HERE";
+const apiKey = "YOUR API KEY HERE";
 
 const apiLink = "https://api.openweathermap.org/data/2.5/weather";
 

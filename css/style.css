@@ -106,3 +106,20 @@ body {
   color: red;
   display: none;
 }
+
+@media screen and (max-width: 768px) {
+  .card {
+    max-width: 320px;
+    margin: 70px auto 0;
+  }
+
+  .wind {
+    font-size: 1.625rem !important;
+  }
+  .wind-icon {
+    margin-left: 20px;
+  }
+  .hum {
+    margin-left: -20px;
+  }
+}
